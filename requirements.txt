@@ -5,3 +5,4 @@ gitpython
 requests
 sqlalchemy
 asyncio
+hijri_converter
