@@ -1,0 +1,40 @@
+{
+    "name": "Asta Source",
+    "description": " Best Source Hunter  ",
+    "logo" : "https://telegra.ph/file/ee83e2f5a3fa55c9db944.jpg",
+    "stack": "container",
+    "repository": "https://telegra.ph/file/ee83e2f5a3fa55c9db944.jpg",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://telegra.ph/file/ee83e2f5a3fa55c9db944.jpg",
+    "env": {
+        "APP_ID": {
+            "description": "اب ايدي",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت بدون ـ @ ـ",
+            "value": "",
+            "required": true
+        }
+    }
+}
